@@ -1,0 +1,34 @@
+[
+  {
+    "id": "student_demo",
+    "major": [
+      "Commerce"
+    ],
+    "minor": [
+      "Data Science"
+    ],
+    "gpa": 3.7,
+    "completedCourses": [
+      "COMM2010",
+      "DS2001",
+      "CS2110",
+      "MATH1310"
+    ],
+    "interests": [
+      "history"
+    ],
+    "careerGoals": [
+      "artist"
+    ],
+    "timePreferences": [
+      "morning",
+      "mid-day"
+    ],
+    "learningStyle": "hands-on, project-based",
+    "genedRemaining": [
+      "Natural Sciences & Mathematics",
+      "Social Sciences"
+    ],
+    "typicalDifficultyPreference": 3
+  }
+]

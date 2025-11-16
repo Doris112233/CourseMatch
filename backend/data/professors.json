@@ -1,0 +1,99 @@
+[
+  {
+    "id": "prof_001",
+    "name": "Dr. Sarah Chen",
+    "department": "Computer Science",
+    "rating": 4.8,
+    "background": "PhD from MIT. Former Google researcher. Specializes in algorithms and complexity theory. Known for clear explanations and challenging problem sets.",
+    "teachingStyle": "lecture-heavy with interactive problem-solving",
+    "studentSentiment": "students appreciate her clarity and depth",
+    "entrepreneurship": false,
+    "industryExperience": true,
+    "yearsTeaching": 8
+  },
+  {
+    "id": "prof_002",
+    "name": "Prof. Michael Rodriguez",
+    "department": "Commerce",
+    "rating": 4.2,
+    "background": "MBA from Wharton. Former Deloitte consultant. 15 years industry experience before academia. Practical, case-study focused teaching.",
+    "teachingStyle": "case-based, interactive discussions",
+    "studentSentiment": "engaging but fast-paced",
+    "entrepreneurship": false,
+    "industryExperience": true,
+    "yearsTeaching": 10
+  },
+  {
+    "id": "prof_003",
+    "name": "Dr. James Park",
+    "department": "Data Science",
+    "rating": 4.6,
+    "background": "PhD in Statistics from Stanford. Former data scientist at Meta. Founder of two AI startups. Known for bridging theory and practice.",
+    "teachingStyle": "project-based, hands-on coding",
+    "studentSentiment": "inspiring and practical, excellent for career prep",
+    "entrepreneurship": true,
+    "industryExperience": true,
+    "yearsTeaching": 6
+  },
+  {
+    "id": "prof_004",
+    "name": "Dr. Emily Watson",
+    "department": "Philosophy",
+    "rating": 4.9,
+    "background": "PhD from Oxford. Specializes in philosophy of mind and AI ethics. Published author. Thoughtful and accessible teaching style.",
+    "teachingStyle": "discussion-based, Socratic method",
+    "studentSentiment": "transformative, makes complex topics accessible",
+    "entrepreneurship": false,
+    "industryExperience": false,
+    "yearsTeaching": 12
+  },
+  {
+    "id": "prof_005",
+    "name": "Prof. David Kim",
+    "department": "Computer Science",
+    "rating": 4.4,
+    "background": "MS from Carnegie Mellon. Former tech lead at Amazon. Co-founder of a Y Combinator startup. Real-world software engineering focus.",
+    "teachingStyle": "project-heavy, team-based learning",
+    "studentSentiment": "demanding but prepares you for industry",
+    "entrepreneurship": true,
+    "industryExperience": true,
+    "yearsTeaching": 5
+  },
+  {
+    "id": "prof_006",
+    "name": "Prof. Lisa Anderson",
+    "department": "Commerce",
+    "rating": 4.7,
+    "background": "MBA from Harvard. Former investment banker at Goldman Sachs. Focuses on practical finance applications for banking careers.",
+    "teachingStyle": "lecture with real-world examples",
+    "studentSentiment": "excellent for finance recruiting, very connected",
+    "entrepreneurship": false,
+    "industryExperience": true,
+    "yearsTeaching": 9
+  },
+  {
+    "id": "prof_007",
+    "name": "Dr. Robert Martinez",
+    "department": "Science & Technology Studies",
+    "rating": 4.3,
+    "background": "PhD in History of Science from Harvard. Interdisciplinary scholar. Thoughtful approach to technology ethics.",
+    "teachingStyle": "discussion and writing-focused",
+    "studentSentiment": "thought-provoking, good for GenEd",
+    "entrepreneurship": false,
+    "industryExperience": false,
+    "yearsTeaching": 15
+  },
+  {
+    "id": "prof_008",
+    "name": "Prof. Jennifer Lee",
+    "department": "Commerce",
+    "rating": 4.5,
+    "background": "MBA from Kellogg. Former brand manager at Procter & Gamble. Marketing strategist with consulting experience.",
+    "teachingStyle": "case studies and group projects",
+    "studentSentiment": "engaging, practical marketing insights",
+    "entrepreneurship": false,
+    "industryExperience": true,
+    "yearsTeaching": 7
+  }
+]
+

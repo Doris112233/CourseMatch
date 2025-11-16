@@ -1,0 +1,227 @@
+.course-card {
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  margin-bottom: 1.5rem;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.course-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+}
+
+.course-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid #f0f0f0;
+}
+
+.course-title {
+  font-size: 1.5rem;
+  color: #232D4B;
+  margin-bottom: 0.25rem;
+}
+
+.course-id {
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.match-score {
+  text-align: center;
+  background: linear-gradient(135deg, #232D4B 0%, #1B1B3A 100%);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  min-width: 80px;
+}
+
+.score-value {
+  display: block;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.score-label {
+  display: block;
+  font-size: 0.75rem;
+  opacity: 0.9;
+}
+
+.course-description {
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.course-details {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.detail-row {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.detail-label {
+  font-weight: 600;
+  color: #333;
+  min-width: 120px;
+}
+
+.detail-value {
+  color: #666;
+  flex: 1;
+}
+
+.rating {
+  color: #ff9800;
+  font-weight: 600;
+  margin-left: 0.5rem;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  margin-top: 0.5rem;
+}
+
+.badge.gened {
+  background: #e3f2fd;
+  color: #1976d2;
+}
+
+.badge.entrepreneurship {
+  background: #fff3e0;
+  color: #f57c00;
+}
+
+.career-relevance {
+  margin-top: 0.5rem;
+}
+
+.career-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.career-tag {
+  background: #f0f0f0;
+  padding: 0.3rem 0.7rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.match-reasons {
+  background: #f8f9fa;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-top: 0.5rem;
+}
+
+.match-reasons strong {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #232D4B;
+}
+
+.match-reasons ul {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.match-reasons li {
+  margin: 0.25rem 0;
+  color: #555;
+}
+
+.schedule {
+  margin-top: 0.5rem;
+}
+
+.schedule-times {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  margin-top: 0.5rem;
+}
+
+.schedule-slot {
+  padding: 0.4rem 0.8rem;
+  background: #f8f9fa;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.course-actions {
+  display: flex;
+  gap: 0.75rem;
+  padding-top: 1rem;
+  border-top: 1px solid #f0f0f0;
+}
+
+.action-button {
+  flex: 1;
+  padding: 0.75rem;
+  border: 2px solid #ddd;
+  background: white;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.95rem;
+  font-weight: 500;
+  transition: all 0.3s;
+}
+
+.action-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.action-button.like:hover {
+  border-color: #4caf50;
+  color: #4caf50;
+}
+
+.action-button.like.active {
+  background: #4caf50;
+  color: white;
+  border-color: #4caf50;
+}
+
+.action-button.cart:hover {
+  border-color: #2196f3;
+  color: #2196f3;
+}
+
+.action-button.cart.active {
+  background: #2196f3;
+  color: white;
+  border-color: #2196f3;
+}
+
+.action-button.dislike:hover {
+  border-color: #f44336;
+  color: #f44336;
+}
+
+.action-button.dislike.active {
+  background: #f44336;
+  color: white;
+  border-color: #f44336;
+}
+

@@ -1,0 +1,14 @@
+[
+  {
+    "courseId": "COMM4681",
+    "action": "like",
+    "studentId": "student_demo",
+    "timestamp": "2025-11-15T16:48:27.627968"
+  },
+  {
+    "courseId": "ECON3030",
+    "action": "dislike",
+    "studentId": "student_demo",
+    "timestamp": "2025-11-15T16:50:44.956950"
+  }
+]
